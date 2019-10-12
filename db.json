@@ -1,5 +1,5 @@
 {
-  plants: [
+  "plants": [
    {
      "id": 1,
      "name": "ZZ",
@@ -17,7 +17,7 @@
    }
   ],
   
-  teams: [
+  "teams": [
     {
       "id": 1,
       "name": "Team ZZ"
