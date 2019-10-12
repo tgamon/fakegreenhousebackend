@@ -1,0 +1,30 @@
+{
+  plants: [
+   {
+     "id": 1,
+     "name": "ZZ",
+     "teamid": 1
+   },
+   {
+     "id": 2,
+     "name": "Spidey",
+     "teamid": 2
+   },
+   {
+      "id": 3,
+      "name": "Felix",
+      "teamid": 1
+   }
+  ],
+  
+  teams: [
+    {
+      "id": 1,
+      "name": "Team ZZ"
+    },
+    {
+       "id": 2,
+       "name": "Team Spidey"
+    }
+  ]
+}
