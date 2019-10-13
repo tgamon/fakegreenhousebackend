@@ -3,16 +3,19 @@
    {
      "id": 1,
      "name": "ZZ",
+     "lastactivity": "Time to water!",
      "teamid": 1
    },
    {
      "id": 2,
      "name": "Spidey",
+     "lastactivity": "Feed me!",
      "teamid": 2
    },
    {
       "id": 3,
       "name": "Felix",
+      "lastactivity": "I'm cool, wipe my leaves down and tell me I'm pretty."
       "teamid": 1
    }
   ],
